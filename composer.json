@@ -1,0 +1,17 @@
+{
+    "name": "duyvuseldat/convert-timezone",
+    "description": "convert timezone for lumen and laravel",
+    "authors": [
+        {
+            "name": "Vu Van Duy",
+            "email": "duy.vu@seldatinc.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DuyVuSeldat\\": "src"
+        }
+    }
+}
