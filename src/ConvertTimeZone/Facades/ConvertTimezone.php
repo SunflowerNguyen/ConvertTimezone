@@ -3,7 +3,7 @@ namespace DuyVuSeldat\ConvertTimeZone\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class ConvertTimezone extends Facades{
+class ConvertTimezone extends Facade{
     /**
      * Get the registered name of the component.
      *
