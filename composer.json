@@ -7,7 +7,6 @@
             "email": "duy.vu@seldatinc.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
